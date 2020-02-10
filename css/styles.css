@@ -1,0 +1,167 @@
+body
+{
+  font-family: 'Montserrat', sans-serif;
+}
+
+/* Title-start */
+
+#title
+{
+  background-color: #dc3545;
+  padding: 2.4% 15% 0;
+  color: #fff;
+}
+
+
+.navbar-brand
+{
+  font-family: 'Ubuntu', sans-serif;
+}
+
+ .B
+{
+  font-family: 'Montserrat-Black', sans-serif;
+  font-size: 3.5rem;
+  font-weight: 600;
+  line-height: 1.5;
+  text-shadow: -2px -2px 2px #222831;
+}
+
+/* navigation-bar */
+
+.nb
+{
+  padding-bottom: 4.25rem;
+}
+
+/* Download buttons */
+.download-button
+{
+  margin: 5% 3% 5% 3%;
+  text-shadow: -2px -2px 2px #222831;
+}
+
+/* Title-Image */
+
+.title-image
+{
+  margin: 1.5rem 0 0 3rem;
+  width: 55%;
+  transform: rotate(25deg);
+  z-index: 0;
+  position: relative;
+  bottom: -5rem;
+}
+
+/* Title-Ends */
+
+/* Features-Start */
+
+#features
+{
+  text-align: center;
+  padding: 4% 15%;
+  font-size: 1.3rem;
+  background-color: white;
+  z-index: 1;
+  position: relative;
+}
+
+/* .Feature
+{
+  margin-bottom: 2rem;
+  font-family: 'Fugaz One', cursive;
+  color: #018383;
+  text-shadow: -2px -2px 2px #222831;
+} */
+
+.H3
+{
+  color:#02a8a8;
+}
+
+.Features-box
+{
+  display: inline-block;
+  font-family: 'Montserrat-bold';
+}
+
+.f1
+{
+  font-size: 4rem;
+  color: green;
+  margin-bottom: 0.85rem;
+}
+
+.f2
+{
+  font-size: 4rem;
+  color: orange;
+  margin-bottom: 0.85rem;
+}
+
+/* Testimonials */
+
+#testimonials
+{
+  text-align: center;
+  color: #fff;
+  background-color: #dc3545;
+}
+
+.test-image
+{
+  border-radius: 100%;
+  text-align: center;
+  padding-bottom: 1%;
+}
+
+.test-image1
+{
+  height: 22rem;
+  width: 22rem;
+  border-radius: 100%;
+  padding-bottom: 1%;
+}
+
+.carousel-item
+{
+  padding: 7% 15% 0 15%;
+}
+
+
+.test-h2
+{
+  font-size: 3rem;
+  text-shadow: -2px -2px 2px #222831;
+  padding-bottom: 3%;
+}
+
+
+#press
+{
+  background-color: #dc3545;
+  padding:  15% 7% ;
+  text-align: center;
+}
+
+.press-image
+{
+  width: 50%;
+}
+
+.press-image1
+{
+  width: 90%;
+}
+
+#pricing
+{
+  text-align: center;
+  padding: 7% 15%;
+}
+
+.pricing-coloum
+{
+  padding-top: 1.5rem;
+}
